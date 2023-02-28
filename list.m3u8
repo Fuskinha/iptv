@@ -1,0 +1,341 @@
+#EXTM3U
+
+################################################################################# BBB
+
+#EXTINF:-1 tvg-id="BBB Cam 1" tvg-logo="" group-title="CANAIS | BBB",BBB CAM 1
+http://contentzord.gelderland.ga:2095/live/bbbcam1/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="BBB Cam 2" tvg-logo="" group-title="CANAIS | BBB",BBB CAM 2
+http://contentzord.gelderland.ga:2095/live/bbbcam2/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="BBB Cam 3" tvg-logo="" group-title="CANAIS | BBB",BBB CAM 3
+http://contentzord.gelderland.ga:2095/live/bbbcam3/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="BBB Cam 4" tvg-logo="" group-title="CANAIS | BBB",BBB CAM 4
+http://contentzord.gelderland.ga:2095/live/bbbcam4/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="BBB Cam 5" tvg-logo="" group-title="CANAIS | BBB",BBB CAM 5
+http://contentzord.gelderland.ga:2095/live/bbbcam5/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="BBB Cam 6" tvg-logo="" group-title="CANAIS | BBB",BBB CAM 6
+http://contentzord.gelderland.ga:2095/live/bbbcam6/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="BBB Cam 7" tvg-logo="" group-title="CANAIS | BBB",BBB CAM 7
+http://contentzord.gelderland.ga:2095/live/bbbcam7/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="BBB Cam 8" tvg-logo="" group-title="CANAIS | BBB",BBB CAM 8
+http://contentzord.gelderland.ga:2095/live/bbbcam8/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="BBB Cam 9" tvg-logo="" group-title="CANAIS | BBB",BBB CAM 9
+http://contentzord.gelderland.ga:2095/live/bbbcam9/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="BBB Cam 10" tvg-logo="" group-title="CANAIS | BBB",BBB CAM 10
+http://contentzord.gelderland.ga:2095/live/bbbcam10/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="BBB Cam 11" tvg-logo="" group-title="CANAIS | BBB",BBB CAM 11
+http://contentzord.gelderland.ga:2095/live/bbbcam1/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="BBB Cam 12" tvg-logo="" group-title="CANAIS | BBB",BBB CAM 12
+http://contentzord.gelderland.ga:2095/live/bbbcam1/chunks.m3u8?token=87811ad2784ew2d2
+
+################################################################################# ABERTOS
+
+#EXTINF:-1 tvg-id="Bandeirantes.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079812202141319168/1677517498929.png" group-title="CANAIS | ABERTOS",BAND
+http://contentzord.gelderland.ga:2095/live/band/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Bandeirantes.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079812202141319168/1677517498929.png" group-title="CANAIS | ABERTOS",BAND (SERVER 2)
+http://etc.meshmixer.cf:2095/live/band/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079812223167377468/1677517498496.png" group-title="CANAIS | ABERTOS",GLOBO
+http://contentzord.gelderland.ga:2095/live/globo/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079812223167377468/1677517498496.png" group-title="CANAIS | ABERTOS",GLOBO (SERVER 2)
+http://etc.meshmixer.cf:2095/live/globo/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079812248329011220/1677517498023.png" group-title="CANAIS | ABERTOS",RECORD
+http://contentzord.gelderland.ga:2095/live/record/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079812248329011220/1677517498023.png" group-title="CANAIS | ABERTOS",RECORD (SERVER 2)
+http://etc.meshmixer.cf:2095/live/record/chunks.m3u8?token=87811ad2784ew2d2
+
+################################################################################# ESPORTES
+
+#EXTINF:-1 tvg-id="Combate.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079812173695553616/1677517499464.png" group-title="CANAIS | ESPORTES",COMBATE
+http://contentzord.gelderland.ga:2095/live/combate/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Combate.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079812173695553616/1677517499464.png" group-title="CANAIS | ESPORTES",COMBATE (SERVER 2)
+http://etc.meshmixer.cf:2095/live/combate/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Espn.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079411818310684743/1677422205824.png" group-title="CANAIS | ESPORTES",ESPN
+http://contentzord.gelderland.ga:2095/live/espn/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Espn.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079411818310684743/1677422205824.png" group-title="CANAIS | ESPORTES",ESPN (SERVER 2)
+http://etc.meshmixer.cf:2095/live/espn/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079412016403460186/1677422205404.png" group-title="CANAIS | ESPORTES",ESPN 2
+http://contentzord.gelderland.ga:2095/live/espn2/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="ESPN2.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079412016403460186/1677422205404.png" group-title="CANAIS | ESPORTES",ESPN 2 (SERVER 2)
+http://etc.meshmixer.cf:2095/live/espn2/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="ESPN3.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079412561398743110/1677422371018.png" group-title="CANAIS | ESPORTES",ESPN 3
+http://contentzord.gelderland.ga:2095/live/espn3/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="ESPN3.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079412561398743110/1677422371018.png" group-title="CANAIS | ESPORTES",ESPN 3 (SERVER 2)
+http://etc.meshmixer.cf:2095/live/espn3/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="ESPN4.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079412606181326888/1677422204516.png" group-title="CANAIS | ESPORTES",ESPN 4
+http://contentzord.gelderland.ga:2095/live/espn4/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="ESPN4.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079412606181326888/1677422204516.png" group-title="CANAIS | ESPORTES",ESPN 4 (SERVER 2)
+http://etc.meshmixer.cf:2095/live/espn4/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079413958559146184/1677422724268.png" group-title="CANAIS | ESPORTES",ESPN EXTRA
+
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079415317266190446/1677423037021.png" group-title="CANAIS | ESPORTES",PREMIERE CLUBES
+http://contentzord.gelderland.ga:2095/live/premiereclubes/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079415317266190446/1677423037021.png" group-title="CANAIS | ESPORTES",PREMIERE CLUBES (SERVER 2)
+http://etc.meshmixer.cf:2095/live/premiereclubes/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079415317266190446/1677423037021.png" group-title="CANAIS | ESPORTES",PREMIERE 2
+http://contentzord.gelderland.ga:2095/live/premiere2/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079415317266190446/1677423037021.png" group-title="CANAIS | ESPORTES",PREMIERE 2 (SERVER 2)
+http://etc.meshmixer.cf:2095/live/premiere2/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079415317266190446/1677423037021.png" group-title="CANAIS | ESPORTES",PREMIERE 3
+http://contentzord.gelderland.ga:2095/live/premiere3/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079415317266190446/1677423037021.png" group-title="CANAIS | ESPORTES",PREMIERE 3 (SERVER 2)
+http://etc.meshmixer.cf:2095/live/premiere3/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079415317266190446/1677423037021.png" group-title="CANAIS | ESPORTES",PREMIERE 4
+http://contentzord.gelderland.ga:2095/live/premiere4/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079415317266190446/1677423037021.png" group-title="CANAIS | ESPORTES",PREMIERE 4 (SERVER 2)
+http://etc.meshmixer.cf:2095/live/premiere4/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079415317266190446/1677423037021.png" group-title="CANAIS | ESPORTES",PREMIERE 5
+http://contentzord.gelderland.ga:2095/live/premiere5/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079415317266190446/1677423037021.png" group-title="CANAIS | ESPORTES",PREMIERE 5 (SERVER 2)
+http://etc.meshmixer.cf:2095/live/premiere5/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079415317266190446/1677423037021.png" group-title="CANAIS | ESPORTES",PREMIERE 6
+http://contentzord.gelderland.ga:2095/live/premiere6/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079415317266190446/1677423037021.png" group-title="CANAIS | ESPORTES",PREMIERE 6 (SERVER 2)
+http://etc.meshmixer.cf:2095/live/premiere6/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079415317266190446/1677423037021.png" group-title="CANAIS | ESPORTES",PREMIERE 7
+http://contentzord.gelderland.ga:2095/live/premiere7/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079415317266190446/1677423037021.png" group-title="CANAIS | ESPORTES",PREMIERE 7 (SERVER 2)
+http://etc.meshmixer.cf:2095/live/premiere7/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079416477289029702/1677423322898.png" group-title="CANAIS | ESPORTES",SPORTV 1
+http://contentzord.gelderland.ga:2095/live/sportv/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079416477289029702/1677423322898.png" group-title="CANAIS | ESPORTES",SPORTV 1 (SERVER 2)
+http://etc.meshmixer.cf:2095/live/sportv/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079416536122523739/1677423322348.png" group-title="CANAIS | ESPORTES",SPORTV 2
+
+
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079416562395652126/1677423321915.png" group-title="CANAIS | ESPORTES",SPORTV 3
+
+
+#EXTINF:-1 tvg-id="TNT Sports" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079417982066892951/1677423678994.png" group-title="CANAIS | ESPORTES",TNT SPORTS 1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8 
+  
+#EXTINF:-1 tvg-id="TNT Sports 2" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079417982066892951/1677423678994.png" group-title="CANAIS | ESPORTES",TNT SPORTS 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8 
+  
+#EXTINF:-1 tvg-id="TNT Sports 3" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079417982066892951/1677423678994.png" group-title="CANAIS | ESPORTES",TNT SPORTS 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="TNT Sports 4" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079417982066892951/1677423678994.png" group-title="CANAIS | ESPORTES",TNT SPORTS 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT Sports 5" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079417982066892951/1677423678994.png" group-title="CANAIS | ESPORTES",TNT SPORTS 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+
+################################################################################# INFANTIS
+
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079422197908635769/1677424130585.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK
+http://contentzord.gelderland.ga:2095/live/cartoonnetwork/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079422197908635769/1677424130585.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK (SERVER 2)
+http://etc.meshmixer.cf:2095/live/cartoonnetwork/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079422197908635769/1677424130585.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK (ALTERNATIVE)
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079422238488543302/1677424130084.png" group-title="CANAIS | INFANTIS",CARTOONITO
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079422299557597294/1677424356816.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL
+http://contentzord.gelderland.ga:2095/live/disneychannel/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079422299557597294/1677424356816.png" group-title="CANAIS | INFANTIS",DISNEY CHANNEL (SERVER 2)
+http://etc.meshmixer.cf:2095/live/disneychannel/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="gloob.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079811563806003300/1677516850357.png" group-title="CANAIS | INFANTIS",GLOOB
+http://contentzord.gelderland.ga:2095/live/gloob/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="gloob.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079811563806003300/1677516850357.png" group-title="CANAIS | INFANTIS",GLOOB (SERVER 2)
+http://etc.meshmixer.cf:2095/live/gloob/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079422377970106448/1677424357206.png" group-title="CANAIS | INFANTIS",NICKELODEON
+http://cdn.connectbr.com.br/Nickelodeon/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079422377970106448/1677424357206.png" group-title="CANAIS | INFANTIS",NICKELODEON (SERVER 2)
+http://contentzord.gelderland.ga:2095/live/nickelodeon/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079422377970106448/1677424357206.png" group-title="CANAIS | INFANTIS",NICKELODEON (SERVER 3)
+http://etc.meshmixer.cf:2095/live/nickelodeon/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079422828228640768/1677424842845.png" group-title="CANAIS | INFANTIS",RETRÔ CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079423799642050641/1677424428706.png" group-title="CANAIS | INFANTIS",TOONCAST
+
+################################################################################# FILMES E SÉRIES
+
+#EXTINF:-1 tvg-id="Axn.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079426838989910046/1677425765986.png" group-title="CANAIS | FILMES E SÉRIES",AXN
+http://contentzord.gelderland.ga:2095/live/axn/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Axn.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079426838989910046/1677425765986.png" group-title="CANAIS | FILMES E SÉRIES",AXN (SERVER 2)
+http://etc.meshmixer.cf:2095/live/axn/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Fx.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079823746673684500/1677520417780.png" group-title="CANAIS | FILMES E SÉRIES",FX
+http://contentzord.gelderland.ga:2095/live/fx/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Fx.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079823746673684500/1677520417780.png" group-title="CANAIS | FILMES E SÉRIES",FX (SERVER 2)
+http://etc.meshmixer.cf:2095/live/fx/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Hbo.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079426877304868985/1677425765535.png" group-title="CANAIS | FILMES E SÉRIES",HBO
+http://contentzord.gelderland.ga:2095/live/hbo/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Hbo.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079426877304868985/1677425765535.png" group-title="CANAIS | FILMES E SÉRIES",HBO (SERVER 2)
+http://etc.meshmixer.cf:2095/live/hbo/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079426967180415116/1677425765136.png" group-title="CANAIS | FILMES E SÉRIES",HBO 2
+http://contentzord.gelderland.ga:2095/live/hbo2/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079426967180415116/1677425765136.png" group-title="CANAIS | FILMES E SÉRIES",HBO 2 (SERVER 2)
+http://etc.meshmixer.cf:2095/live/hbo2/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079811626682826812/1677517493800.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX
+http://contentzord.gelderland.ga:2095/live/megapix/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079811626682826812/1677517493800.png" group-title="CANAIS | FILMES E SÉRIES",MEGAPIX (SERVER 2)
+http://etc.meshmixer.cf:2095/live/megapix/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | FILMES E SÉRIES",PARAMOUNT
+http://cdn.connectbr.com.br/paramount/mono.m3u8
+
+#EXTINF:-1 tvg-id="spacehd.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079811674489499718/1677517494244.png" group-title="CANAIS | FILMES E SÉRIES",SPACE
+http://contentzord.gelderland.ga:2095/live/space/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | FILMES E SÉRIES",STAR CHANNEL
+http://cdn.connectbr.com.br/Star/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079811755259207740/1677517494660.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE ACTION
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079811755259207740/1677517494660.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE ACTION (SERVER 2)
+http://contentzord.gelderland.ga:2095/live/telecineaction/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079811755259207740/1677517494660.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE ACTION (SERVER 3)
+http://etc.meshmixer.cf:2095/live/telecineaction/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079811814562463774/1677517495110.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE PIPOCA
+http://contentzord.gelderland.ga:2095/live/telecinepipoca/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079811814562463774/1677517495110.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE PIPOCA (SERVER 2)
+http://etc.meshmixer.cf:2095/live/telecinepipoca/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079811855280779274/1677517495602.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE PREMIUM
+http://contentzord.gelderland.ga:2095/live/telecinepremium/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079811855280779274/1677517495602.png" group-title="CANAIS | FILMES E SÉRIES",TELECINE PREMIUM (SERVER 2)
+http://etc.meshmixer.cf:2095/live/telecinepremium/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079811912872771684/1677517496021.png" group-title="CANAIS | FILMES E SÉRIES",TNT
+http://contentzord.gelderland.ga:2095/live/tnt/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="spacehd.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079811674489499718/1677517494244.png" group-title="CANAIS | FILMES E SÉRIES",SPACE (SERVER 2)
+http://etc.meshmixer.cf:2095/live/space/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Tnt.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079811912872771684/1677517496021.png" group-title="CANAIS | FILMES E SÉRIES",TNT (SERVER 2)
+http://etc.meshmixer.cf:2095/live/tnt/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079811960381649006/1677517496456.png" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES
+http://contentzord.gelderland.ga:2095/live/tntseries/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079811960381649006/1677517496456.png" group-title="CANAIS | FILMES E SÉRIES",TNT SERIES (SERVER 2)
+http://etc.meshmixer.cf:2095/live/tntseries/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079812059409174578/1677517496912.png" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL CHANNEL
+http://contentzord.gelderland.ga:2095/live/warnerchannel/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079812059409174578/1677517496912.png" group-title="CANAIS | FILMES E SÉRIES",UNIVERSAL CHANNEL (SERVER 2)
+http://etc.meshmixer.cf:2095/live/warnerchannel/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079812126484480052/1677517497396.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL
+http://contentzord.gelderland.ga:2095/live/warnerchannel/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079812126484480052/1677517497396.png" group-title="CANAIS | FILMES E SÉRIES",WARNER CHANNEL (SERVER 2)
+http://etc.meshmixer.cf:2095/live/warnerchannel/chunks.m3u8?token=87811ad2784ew2d2
+
+################################################################################# DOCUMENTÁRIOS
+
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079820832660013066/1677519694388.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET
+http://contentzord.gelderland.ga:2095/live/animalplanet/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079820832660013066/1677519694388.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET (SERVER 2)
+http://etc.meshmixer.cf:2095/live/animalplanet/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Discovery.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079820932404760686/1677519696301.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL
+http://contentzord.gelderland.ga:2095/live/discoverychannel/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Discovery.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079820932404760686/1677519696301.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY CHANNEL (SERVER 2)
+http://etc.meshmixer.cf:2095/live/discoverychannel/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079820986280587304/1677519694809.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO
+http://contentzord.gelderland.ga:2095/live/discoveryturno/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079820986280587304/1677519694809.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY TURBO (SERVER 2)
+http://etc.meshmixer.cf:2095/live/discoveryturbo/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079821022829752462/1677519695879.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY
+http://cdn.connectbr.com.br/History/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079821022829752462/1677519695879.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY (SERVER 2)
+http://contentzord.gelderland.ga:2095/live/history/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079821022829752462/1677519695879.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY (SERVER 3)
+http://etc.meshmixer.cf:2095/live/history/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="H2.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079821057155932201/1677519695309.png" group-title="CANAIS | DOCUMENTÁRIOS",HISTORY 2
+http://cdn.connectbr.com.br/h2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079821454662713354/1677519873264.png" group-title="CANAIS | DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY
+http://contentzord.gelderland.ga:2095/live/idinvestigacaodiscovery/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079821454662713354/1677519873264.png" group-title="CANAIS | DOCUMENTÁRIOS",INVESTIGAÇÃO DISCOVERY (SERVER 2)
+http://etc.meshmixer.cf:2095/live/idinvestigacaodiscovery/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079821617439449239/1677519693038.png" group-title="CANAIS | DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC
+
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079821617439449239/1677519693038.png" group-title="CANAIS | DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC (SERVER 2)
+
+################################################################################# VARIEDADES
+
+#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079821772423184514/1677519693486.png" group-title="CANAIS | VARIEDADES",MULTISHOW
+http://contentzord.gelderland.ga:2095/live/multishow/chunks.m3u8?token=87811ad2784ew2d2
+
+#EXTINF:-1 tvg-id="Multishow.br" tvg-logo="https://media.discordapp.net/attachments/1079410214006169612/1079821772423184514/1677519693486.png" group-title="CANAIS | VARIEDADES",MULTISHOW (SERVER 2)
+http://etc.meshmixer.cf:2095/live/multishow/chunks.m3u8?token=87811ad2784ew2d2
